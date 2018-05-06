@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Dungeon Exits" Revision="0">
+
+
+
+<Marker Name="Newbie Exit" X="5541" Y="524" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Newbie Exit" X="5601" Y="517" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Inferno Exit" X="5892" Y="2057" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5938" Y="2068" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5959" Y="1977" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5623" Y="2493" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5764" Y="2498" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5538" Y="2361" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Inferno Exit" X="5820" Y="2321" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Muskeg Exit" X="5180" Y="2006" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5179" Y="1963" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5216" Y="1955" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5203" Y="1923" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5381" Y="2086" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5331" Y="2014" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Muskeg Exit" X="5558" Y="2144" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Nusero Exit" X="5792" Y="1701" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Nusero Exit" X="5828" Y="1701" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Nusero Exit" X="5840" Y="1728" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Nusero Exit" X="5832" Y="1556" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Nusero Exit" X="5967" Y="1679" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Mausoleum Exit" X="5618" Y="723" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Mausoleum Exit" X="5588" Y="717" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Mausoleum Exit" X="5626" Y="689" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Mausoleum Exit" X="5370" Y="749" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Mausoleum Exit" X="5497" Y="744" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Mausoleum Exit" X="5245" Y="690" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Pulma Exit" X="5166" Y="1328" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Pulma Exit" X="5195" Y="1351" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Pulma Exit" X="5217" Y="1302" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Pulma Exit" X="5304" Y="1336" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Pulma Exit" X="5348" Y="1317" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Pulma Exit" X="5429" Y="1269" Icon="MOONGATE" Facet="0"/>
+
+<Marker Name="Ossuary Exit" X="5926" Y="1326" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Ossuary Exit" X="5926" Y="1351" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Ossuary Exit" X="5870" Y="1310" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Ossuary Exit" X="5796" Y="1367" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Ossuary Exit" X="5683" Y="1279" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Ossuary Exit" X="5724" Y="1333" Icon="MOONGATE" Facet="0"/>
+
+
+
+
+
+
+
+</Pack>
