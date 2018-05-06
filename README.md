@@ -13,3 +13,6 @@ overwrite felucca.png
 go C:\Users\USER\Documents\Ultima Mapper\Maps\lowres
 
 overwrite felucca.jpb
+
+---------------------------------------------------------
+
