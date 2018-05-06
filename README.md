@@ -22,7 +22,8 @@ EXAMPLE MARKER FILE:
 
 <Marker Name="Example Body Of Water" X="2500" Y="42" Icon="TERRAIN" Facet="0"/>
 
-</Pack>```
+</Pack>
+```
 
 The easiest way I have found to edit them and keep the formating as well as making it easier to collaborate would be to edit the marker file itself rather than adding it using mapper, for example if i wanted to add an additional marker it would then look like this
 
@@ -31,4 +32,5 @@ The easiest way I have found to edit them and keep the formating as well as maki
 <Marker Name="Example Body Of Water" X="2500" Y="42" Icon="TERRAIN" Facet="0"/>
 <Marker Name="Example Body Of Water 2" X="2500" Y="42" Icon="TERRAIN" Facet="0"/>
 
-</Pack>```
+</Pack>
+```
