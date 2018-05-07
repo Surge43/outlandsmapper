@@ -4,15 +4,12 @@ Download at Ultimamapper.com
 
 go C:\Users\USER\Documents\Ultima Mapper
 
-overwrite the icons and markers folder
+DELETE the marker folder, replace them with the one included
 
-go C:\Users\USER\Documents\Ultima Mapper\Maps
+go C:\Users\USER\Documents\Ultima Mapper\
 
-overwrite felucca.png
+overwrite the maps & icons folder
 
-go C:\Users\USER\Documents\Ultima Mapper\Maps\lowres
-
-overwrite felucca.jpb
 
 ---------------------------------------------------------
 
