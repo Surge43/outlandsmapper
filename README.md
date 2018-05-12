@@ -6,9 +6,7 @@ go C:\Users\USER\Documents\Ultima Mapper
 
 DELETE the marker folder, replace them with the one included
 
-go C:\Users\USER\Documents\Ultima Mapper\
-
-overwrite the maps & icons folder
+OVERWRITE the maps & icons folder
 
 
 ---------------------------------------------------------
